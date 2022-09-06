@@ -1,0 +1,545 @@
+ body{
+padding: 0;
+margin: 0;
+}
+
+
+.header{
+    width: 100%;
+    height: 80px;
+    color:white;
+  
+    padding-left: 40px;
+    
+
+
+}
+.logo{
+    width: 250px;
+    height: 60px;
+    float: left;
+    margin-top: 20px;
+}
+.topbar{
+    width: 80px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}
+.topbar2{
+    width: 100px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.topbar3{
+    width: 80px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.topbar4{
+    width: 80px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.topbar5{
+    width: 80px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.topbar6{
+    width: 130px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.topbar7{
+    width: 80px;
+    height: 60px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 20px;
+    color:red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.sidetopbar{
+    margin-top: 0px;
+    width: 350px;
+    height: 30px;
+    color: black;
+    float: left;
+    
+    text-decoration: none;
+    padding-top: 0px;
+}
+.sidetopbar ul li{
+    display: inline-block;
+    margin-left: 10px;
+    
+} 
+.searchbar{
+    width: 350px;
+    height: 30px;
+   
+    float: left;
+    padding-top: 20px;
+    
+}
+.searchbar input{
+    background-color:#ECEFF1;
+    height: 25PX;
+}
+.page1{
+    width: 100%;
+    height: 600px;
+    background-image : url(https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/enIN/Images/2880x1280_tcm209-935541.jpg);
+    background-position: center;
+    display: flex;
+    background-size: cover;
+    
+}
+.buybutton2{
+    margin-left: -351px;
+    background-color: black;
+    color: white;
+    padding-right: 30px;
+    border-left: 1px;
+    border-top: 1px;
+    border-right: 3px solid;
+    border-bottom: 3px solid;
+    border-color: white;
+    margin-top: 355px;
+    font-weight: bold;
+}
+
+
+.page2{
+    width: 100%;
+    height: 550px;
+    background-color:rgb(123, 215, 252);
+   display: flex;
+}
+.worldcup{
+    margin-top: 100px;
+    width: 400px;
+    height: 300px;
+    background-color:rgb(123, 215, 252);
+    
+}
+.buybutton{
+    width: 150px;
+    margin-left: 40px;
+    background-color: white;
+    color: black;
+    padding-right: 30px;
+    border-left: 1px;
+    border-top: 1px;
+    border-right: 3px solid;
+    border-bottom: 3px solid;
+    border-color: black;
+    font-weight: bold;
+}
+.page2part1{
+    width: 300px;
+    height: 400px;
+    background-color: chartreuse;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+
+}
+.page2part2{
+    width:300px;
+    height:400px ;
+    background-color: black;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.page3{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+    font-style: oblique;
+    
+}
+.popular{
+    width: 500px;
+    height: 60px;
+    background-color:white;
+    margin-left: 400px;
+    float: left;
+    
+}
+.buttonclass{
+    width: 100%;
+    height: 60px;
+    background-color:white;
+    float: left;
+    margin-top: 60px;
+    margin-left: -868px;
+}
+
+
+
+
+.but{
+    margin-top: 0PX;
+    margin-left: -6PX;
+    padding: 0px 10px 0px 10px;
+    border: .5px solid black;
+    background-color:white;
+    text-size-adjust: 40px;
+}
+.page4{
+    width: 100%;
+    height:400px;
+    display: flex;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+.page4part1{
+    background-image: url(https://mediaslide-europe.storage.googleapis.com/brooks/pictures/96/902/large-1453804776-60752c99ba4fed755e34edeff0804f30.jpg);
+    background-position: center;
+    background-size: cover;
+    width:400px;
+    height: 300px;
+    text-align: center;
+    
+    margin-left: -542px;
+    margin-top: 70px;
+    float: left;
+}
+.page4part2{
+    width:400px;
+    height: 300px;
+    background-image: url(https://media.voguebusiness.com/photos/61f7fc3be8b98624842f6803/master/w_1600%2Cc_limit/adidas-voguebus-adidas-jan-21-story-inline-2.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 70px;
+    float: left;
+}
+.page4part3{
+    width:400px;
+    height: 300px;
+    background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/42b8b926590a2fad5df1de9dd13659f6/179c12d5b2ade43b98e1cedd_rw_1200.jpg?h=8a45126ffbc9f3700c461dc5c471627a);
+    background-position:center ;
+    text-align: center;
+    background-size: cover;
+    margin-left: 15px;
+    margin-top: 70px;
+    float: left;
+}
+.page5{
+    width: 100%;
+    height:400px;
+    display: flex;
+    background-color:white;
+}
+.arrivals{
+    width: 1233px;
+    height: 70px;
+    background-color: white;
+    padding-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.box1{
+    width: 230px;
+    height: 300px;
+    background-color: white;
+    
+    margin-top: 70px;
+    margin-left: -1232px;
+    
+}
+.box2{
+    width: 230px;
+    height: 300px;
+    background-color:white;
+    float: left;
+    margin-top: 70px;
+    margin-left: 10px;
+   
+}
+.box3{
+    width: 230px;
+    height: 300px;
+    background-color:white;
+    float: left;
+    margin-top: 70px;
+    margin-left: 10px;
+   
+}
+.box4{
+    width: 230px;
+    height: 300px;
+    background-color:white;
+    float: left;
+    margin-top: 70px;
+    margin-left: 10px;
+   
+}
+.box5{
+    width: 230px;
+    height: 300px;
+    background-color:white;
+    float: left;
+    margin-top: 70px;
+    margin-left: 10px;
+   
+}
+
+
+
+
+.page6{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(227, 225, 225);
+    font-weight: lighter;
+
+}
+.page6part1{
+    width: 500px;
+    height: 450px;
+    background-color:rgb(227, 225, 225);
+    margin-left: 150px;
+    margin-top:  50px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+.page6part2{
+    width: 500px;
+    height: 450px;
+    background-color:rgb(227, 225, 225);
+    margin-left: 20px;
+    margin-top:  50px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+.content1{
+    width:500px ;
+    height: 355px;
+    background-color: rgb(227, 225, 225);
+}
+.content2{
+    width:500px ;
+    height: 384px;
+    background-color:rgb(227, 225, 225);
+}
+.yellowbar{
+    width: 100%;
+    height: 120px;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+}
+.signbutton{
+    background-color: black;
+    color: white;
+    padding-right: 25px;
+    margin-top: 32px;
+    margin-left: 70px;
+    border-left: 1px;
+    border-top: 1px;
+    border-right: 3px solid;
+    
+    border-bottom: 3px solid;
+    border-color: white;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color:white;
+    font-weight: 20;
+}
+.footer1{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.footer ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+    
+
+.footer2{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+.footer3{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer4{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer5{
+    width: 200px;
+    height: 300px;
+    background-color:white;
+    margin-top: 20px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footerbottom{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(78, 78, 78);
+}
+.footerbottom ul{
+    padding-left: 0px;
+    padding-top: 30px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.footerbottom ul li{
+    padding-left: 0px;
+list-style: none;
+text-align: center;
+display: inline-block;
+padding-left: 10px;
+
+border-color: white;
+
+}
+.copyright{
+    width: 700px;
+    height: 30px;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    margin-top: 50px;
+    margin-left:220px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: aquamarine;
+    width: 100%;
+    height: 610px;
+}
+
+
+.header{
+    background-color: white;
+    width: 100%;
+    height: 80px;
+
+}
+
+.logo{
+    background-color: blue;
+    width: 10%;
+    height: 80px;
+    float: left;
+}
+
+
+.firstnav{
+    background-color: rgb(8, 233, 128);
+    width: 90%;
+    height: 40px;
+    float: left;
+}
+
+.secondnav{
+    
+    background-color: black;
+    width: 60%;
+    height: 40px;
+    float: left;
+}
+
+.thirdnav{
+    background-color: yellow;
+    width: 30%;
+    height: 40px;
+    float: left;
+}*/
